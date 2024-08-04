@@ -24,17 +24,17 @@ In this project, we aim to design a robot face with a movable mouth using four s
 
 ### Photos
 1. **Front View**
-    ![Front View](IMG_5420.jpg)
+    ![Front View](IMG_5496.jpg)
 2. **Right View**
-    ![Right View](IMG_5422.jpg)
+    ![Right View](IMG_5493.jpg)
 3. **Left View**
-    ![Left View](IMG_5423.jpg)
+    ![Left View](IMG_5495.jpg)
 4. **Back View**
-    ![Back View](IMG_5421.jpg)
+    ![Back View](IMG_5494.jpg)
 5. **Top View**
-    ![Top View](IMG_5425.jpg)
+    ![Top View](IMG_5492.jpg)
 6. **Bottom View**
-    ![Bottom View](IMG_5424.jpg)
+    ![Bottom View](IMG_5491.jpg)
 
    ### 3D Design Link
 [Click here to view the 3D design on Tinkercad](https://www.tinkercad.com/things/eWTTN1NAbas-grand-sango-kup/edit?sharecode=LdCIvQDC7kWbmXAby5lmGuiPfd1-RtzggKtmHHpZQ14)
